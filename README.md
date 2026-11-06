@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02aab0,00cdac&height=250&section=header&text=Tomer's%20FinOps%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Financial%20Operations%20%26%20Analytics&descSize=23&descAlignY=55)
-
 # 📊 Data & Business Analyst Portfolio
 
 <div align="center">
