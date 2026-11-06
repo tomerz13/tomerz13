@@ -23,7 +23,7 @@
       <strong>B.A. in Economics and Business Administration</strong><br>
       <em>Bar-Ilan University</em> | Graduated with Honors<br><br>
       <ul>
-        <li><strong>Analytical Coursework:</strong> Machine Learning, Econometrics, Game Theory, Financial Decision Making, and Price Theory.</li>
+        <li><strong>Analytical Coursework:</strong> Machine Learning, Econometrics, Business Analytics & Financial Decision Making.</li>
         <li><strong>Focus:</strong> Quantitative research, statistical modeling, and data-driven economic analysis.</li>
       </ul>
     </td>
