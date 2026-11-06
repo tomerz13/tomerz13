@@ -1,12 +1,11 @@
 ![Portfolio Banner](https://capsule-render.vercel.app/api?type=waving&color=02aab0&height=250&section=header&text=Tomer%27s%20Data%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst&descSize=25&descAlignY=55)
 
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/tomer-zilberman-029269383/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-<br>
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
