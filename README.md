@@ -23,8 +23,19 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/><br>NumPy | <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="45" height="45"/><br>Excel | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br>VS Code |
 
 ### 🎓 Education & Academic Background
-**B.A. in Economics and Business Administration**  
-*Bar-Ilan University* | Graduated with Honors 
 
-* **Analytical Coursework:** Machine Learning, Econometrics, Game Theory, Financial Decision Making, and Price Theory.
-* **Focus:** Quantitative research, statistical modeling, and data-driven economic analysis.
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/he/6/6d/Bar-Ilan_University_logo.svg" width="90" alt="Bar-Ilan University Logo">
+    </td>
+    <td>
+      <strong>B.A. in Economics and Business Administration</strong><br>
+      <em>Bar-Ilan University</em> | Graduated with Honors<br><br>
+      <ul>
+        <li><strong>Analytical Coursework:</strong> Machine Learning, Econometrics, Game Theory, Financial Decision Making, and Price Theory.</li>
+        <li><strong>Focus:</strong> Quantitative research, statistical modeling, and data-driven economic analysis.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
