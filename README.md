@@ -21,3 +21,10 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/><br>Pandas | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/><br>Power BI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br>Git |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/><br>Scikit-Learn | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="45" height="45"/><br>Tableau | <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="45" height="45"/><br>GitHub |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/><br>NumPy | <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="45" height="45"/><br>Excel | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br>VS Code |
+
+### 🎓 Education & Academic Background
+**B.A. in Economics and Business Administration**  
+*Bar-Ilan University* | Graduated with Honors 
+
+* **Analytical Coursework:** Machine Learning, Econometrics, Game Theory, Financial Decision Making, and Price Theory.
+* **Focus:** Quantitative research, statistical modeling, and data-driven economic analysis.
