@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/he/6/6d/Bar-Ilan_University_logo.svg" width="90" alt="Bar-Ilan University Logo">
+      <img src="https://logo.clearbit.com/biu.ac.il" width="80" alt="Bar-Ilan University Logo">
     </td>
     <td>
       <strong>B.A. in Economics and Business Administration</strong><br>
