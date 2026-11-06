@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02aab0,00cdac&height=250&section=header&text=Tomer%27s%20FinOps%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Financial%20Operations%20%26%20Analytics&descSize=23&descAlignY=55" width="100%" alt="FinOps Portfolio Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02aab0,00cdac&height=250&section=header&text=Tomer%20FinOps%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Financial%20Operations&descSize=23&descAlignY=55&v=new_turquoise_1" width="100%" alt="FinOps Portfolio Header" />
+
 # 📊 Data & Business Analyst Portfolio
 
 <div align="center">
